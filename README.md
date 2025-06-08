@@ -1,6 +1,6 @@
 ## Hi there 👋
 #  About Me:
-Currently interning as full stack developer in one startup.<br>Looking to collaborate with people interested in front-end developemeny,backend-development & open-source projects.<br><br>
+Currently interning as full stack developer in one startup.<br>Looking to collaborate with people interested in front-end developement,backend-development & open-source projects.<br><br>
 
 
 ## 🌐 Socials:
