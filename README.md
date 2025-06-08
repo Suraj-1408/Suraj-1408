@@ -1,6 +1,6 @@
 ## Hi there 👋
 #  About Me:
-I am currently working on one full stack web application as intern at one Startup.<br>Looking to collaborate on web development and open-source projects.<br><br>
+I am currently working on full stack web application project as intern in one startup.<br>Looking to collaborate on web development and open-source projects.<br><br>
 
 
 ## 🌐 Socials:
