@@ -1,6 +1,6 @@
 ## Hi there 👋 Suraj here,
 #  About Me:
-Currently interning as full stack developer at Zetrance.<br>Looking to collaborate with people interested in front-end development,backend-development & open-source projects.<br><br>
+Currently interning as full stack developer at Paexskin solution.<br>Looking to collaborate with people interested in front-end development,backend-development & open-source projects.<br><br>
 
 
 ## 🌐 Socials:
